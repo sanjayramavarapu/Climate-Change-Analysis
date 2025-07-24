@@ -1,2 +1,2 @@
 # Climate-Change-Analysis
-Climate change prediction based on sentiment analysis
+A smart prediction system that analyzes global online sentiments to forecast climate change trends with enhanced accuracy. 🌍🧠
